@@ -2,7 +2,7 @@
   <h1>👾 Hi, I'm SintaSIN11 👾</h1>
   <h3>Ethical Hacker | Penetration Tester | Bug Bounty Hunter</h3>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0e75b6&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=SintaSIN11&color=0e75b6&style=flat-square&label=Profile+Views)
   
   <img src="https://img.shields.io/badge/Cybersecurity-Active-00ff00" alt="Cybersecurity Active"/>
   <img src="https://img.shields.io/badge/Bug%20Bounty-Active-red" alt="Bug Bounty"/>
@@ -12,14 +12,14 @@
 
 ### 🛡️ About Me
 
-Saya adalah seorang **Ethical Hacker** yang passionate dalam menemukan kerentanan sebelum penjahat siber melakukannya. Dengan pendekatan "defense through offense", saya membantu organisasi memperkuat sistem mereka melalui penetration testing, vulnerability assessment, dan responsible disclosure.
+I am a passionate **Ethical Hacker** dedicated to finding vulnerabilities before malicious actors can exploit them. With a "defense through offense" mindset, I help organizations strengthen their systems through penetration testing, vulnerability assessments, and responsible disclosure.
 
-Saat ini fokus pada **Web Application Security**, **API Security**, **Cloud Security**, dan **Automation**.
+Currently focusing on **Web Application Security**, **API Security**, **Cloud Security**, and **Automation**.
 
-- 🔭 Sedang mengerjakan: Private Bug Bounty & Red Team Projects
-- 🌱 Sedang mempelajari: Advanced Evasion Techniques & Malware Analysis
-- 💬 Tanya saya tentang: Web Exploitation, API Testing, atau Linux Privilege Escalation
-- ⚡ Fun fact: Manual testing + custom scripting adalah kombinasi favorit saya
+- 🔭 Currently working on: Private Bug Bounty Programs & Red Team Projects
+- 🌱 Currently learning: Advanced Evasion Techniques & Malware Analysis
+- 💬 Ask me about: Web Exploitation, API Testing, or Linux Privilege Escalation
+- ⚡ Fun fact: Manual testing + custom scripting is my favorite combination
 
 ---
 
@@ -56,25 +56,25 @@ Saat ini fokus pada **Web Application Security**, **API Security**, **Cloud Secu
 
 - OSCP (Offensive Security Certified Professional)
 - eJPT | PNPT | CEH
-- (Tambahkan sertifikasi lain yang Anda miliki)
+- (Add other certifications you have here)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SintaSIN11&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SintaSIN11&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔥 Featured Projects
 
-- **[VulnLab](https://github.com/yourusername/vulnlab)** — Koleksi lab vulnerable untuk latihan pentesting
-- **[BugBounty-Writeups](https://github.com/yourusername/bugbounty-writeups)** — Write-up bug yang berhasil ditemukan
-- **[AutoReconX](https://github.com/yourusername/autoreconx)** — Automated reconnaissance tool (Python + Bash)
-- **[WebExploit-Payloads](https://github.com/yourusername/webexploit-payloads)** — Koleksi payload XSS, SSTI, SSRF, dll
-- **[NodeSecTools](https://github.com/yourusername/nodesectools)** — Security tools built with Node.js
+- **[VulnLab](https://github.com/SintaSIN11/vulnlab)** — Collection of vulnerable labs for pentesting practice
+- **[BugBounty-Writeups](https://github.com/SintaSIN11/bugbounty-writeups)** — Write-ups of bugs I have successfully found
+- **[AutoReconX](https://github.com/SintaSIN11/autoreconx)** — Automated reconnaissance tool (Python + Bash)
+- **[WebExploit-Payloads](https://github.com/SintaSIN11/webexploit-payloads)** — Collection of XSS, SSTI, SSRF, and other payloads
+- **[NodeSecTools](https://github.com/SintaSIN11/nodesectools)** — Security tools built with Node.js
 
 ---
 
@@ -82,7 +82,7 @@ Saat ini fokus pada **Web Application Security**, **API Security**, **Cloud Secu
 
 - **X / Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **HackerOne**: [hackerone.com/yourusername](https://hackerone.com/yourusername)
+- **HackerOne**: [hackerone.com/SintaSIN11](https://hackerone.com/SintaSIN11)
 - **Blog**: [yourblog.com](https://yourblog.com)
 
 > "The best way to defend is to attack first." — Hacker Version of Sun Tzu
