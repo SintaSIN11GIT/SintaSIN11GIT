@@ -57,14 +57,6 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 - eJPT | PNPT | CEH
 - (Add other certifications you have here)
 
-### 🔥 Featured Projects
-
-- **[VulnLab](https://github.com/SintaSIN11/vulnlab)** — Collection of vulnerable labs for pentesting practice
-- **[BugBounty-Writeups](https://github.com/SintaSIN11/bugbounty-writeups)** — Write-ups of bugs I have successfully found
-- **[AutoReconX](https://github.com/SintaSIN11/autoreconx)** — Automated reconnaissance tool (Python + Bash)
-- **[WebExploit-Payloads](https://github.com/SintaSIN11/webexploit-payloads)** — Collection of XSS, SSTI, SSRF, and other payloads
-- **[NodeSecTools](https://github.com/SintaSIN11/nodesectools)** — Security tools built with Node.js
-
 ---
 
 ### 📫 Let's Connect
