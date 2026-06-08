@@ -35,13 +35,14 @@ Saat ini fokus pada **Web Application Security**, **API Security**, **Cloud Secu
 - Vulnerability Research & Exploit Development
 
 **Programming & Scripting Languages**
-- **Python** — Automation, Exploit Development, Scripting
-- **JavaScript** — Client & Server Side
-- **Node.js** — Backend & Tooling Development
-- **PHP** — Web Exploitation & Custom Payloads
-- **HTML** + **CSS** — Web Application Assessment & Payload Crafting
-- **Bash** — Linux Automation & Pentesting Scripts
-- **Go** — High Performance Tools & Red Teaming
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
 **Tools & Frameworks**
 - **Burp Suite** • **Metasploit** • **Nmap** • **SQLMap**
