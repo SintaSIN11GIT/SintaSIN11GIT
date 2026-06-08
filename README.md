@@ -29,6 +29,7 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 - Web Application Penetration Testing
 - API Security Testing (REST & GraphQL)
 - Network Penetration Testing
+- Mobile Application Security (Android/iOS)
 - Cloud Security (AWS, Azure, GCP)
 - Red Teaming & Social Engineering
 - Vulnerability Research & Exploit Development
@@ -44,10 +45,25 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
 **Tools & Frameworks**
-- **Burp Suite** • **Metasploit** • **Nmap** • **SQLMap**
-- **Cobalt Strike** • **BloodHound** • **Nuclei** • **ffuf**
-- **OWASP ZAP** • **Ghidra** • **Frida** • **MobSF**
-- **Wireshark** • **Hashcat** • **JohnTheRipper**
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?logo=burpsuite&logoColor=white&style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?logo=metasploit&logoColor=white&style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-0077B5?logo=nmap&logoColor=white&style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-000000?logo=sql&logoColor=white&style=for-the-badge)
+
+![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-00B2A9?logo=cobaltstrike&logoColor=white&style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-800080?logo=graph&logoColor=white&style=for-the-badge)
+![Nuclei](https://img.shields.io/badge/Nuclei-FF4D4D?logo=projectdiscovery&logoColor=white&style=for-the-badge)
+![ffuf](https://img.shields.io/badge/ffuf-00FF00?logo=terminal&logoColor=black&style=for-the-badge)
+
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?logo=owasp&logoColor=white&style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-00A3E0?logo=ghidra&logoColor=white&style=for-the-badge)
+![Frida](https://img.shields.io/badge/Frida-FF69B4?logo=frida&logoColor=white&style=for-the-badge)
+![MobSF](https://img.shields.io/badge/MobSF-4285F4?logo=mobile&logoColor=white&style=for-the-badge)
+
+![Wireshark](https://img.shields.io/badge/Wireshark-00A2E8?logo=wireshark&logoColor=white&style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF00FF?logo=hashcat&logoColor=white&style=for-the-badge)
+![JohnTheRipper](https://img.shields.io/badge/John%20The%20Ripper-FF4500?logo=johntheripper&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -56,6 +72,24 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 - OSCP (Offensive Security Certified Professional)
 - eJPT | PNPT | CEH
 - (Add other certifications you have here)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SintaSIN11&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SintaSIN11&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Featured Projects
+
+- **[VulnLab](https://github.com/SintaSIN11/vulnlab)** — Collection of vulnerable labs for pentesting practice
+- **[BugBounty-Writeups](https://github.com/SintaSIN11/bugbounty-writeups)** — Write-ups of bugs I have successfully found
+- **[AutoReconX](https://github.com/SintaSIN11/autoreconx)** — Automated reconnaissance tool (Python + Bash)
+- **[WebExploit-Payloads](https://github.com/SintaSIN11/webexploit-payloads)** — Collection of XSS, SSTI, SSRF, and other payloads
+- **[NodeSecTools](https://github.com/SintaSIN11/nodesectools)** — Security tools built with Node.js
 
 ---
 
