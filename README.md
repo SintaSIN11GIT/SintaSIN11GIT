@@ -29,7 +29,6 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 - Web Application Penetration Testing
 - API Security Testing (REST & GraphQL)
 - Network Penetration Testing
-- Mobile Application Security (Android/iOS)
 - Cloud Security (AWS, Azure, GCP)
 - Red Teaming & Social Engineering
 - Vulnerability Research & Exploit Development
@@ -57,16 +56,6 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 - OSCP (Offensive Security Certified Professional)
 - eJPT | PNPT | CEH
 - (Add other certifications you have here)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SintaSIN11&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SintaSIN11&layout=compact&theme=tokyonight)
-
----
 
 ### 🔥 Featured Projects
 
