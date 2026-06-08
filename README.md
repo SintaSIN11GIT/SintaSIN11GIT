@@ -65,6 +65,16 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 ![Hashcat](https://img.shields.io/badge/Hashcat-FF00FF?logo=hashcat&logoColor=white&style=for-the-badge)
 ![JohnTheRipper](https://img.shields.io/badge/John%20The%20Ripper-FF4500?logo=johntheripper&logoColor=white&style=for-the-badge)
 
+**WebApp Exploitation Tools (Kali Linux)**
+
+![Hydra](https://img.shields.io/badge/Hydra-00BFFF?logo=terminal&logoColor=white&style=for-the-badge)
+![httpx](https://img.shields.io/badge/httpx-FF4500?logo=projectdiscovery&logoColor=white&style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-00FF00?logo=security&logoColor=black&style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF00FF?logo=terminal&logoColor=white&style=for-the-badge)
+![XSStrike](https://img.shields.io/badge/XSStrike-E34F26?logo=javascript&logoColor=white&style=for-the-badge)
+![Commix](https://img.shields.io/badge/Commix-FF6600?logo=terminal&logoColor=white&style=for-the-badge)
+![WhatWeb](https://img.shields.io/badge/WhatWeb-00A3E0?logo=web&logoColor=white&style=for-the-badge)
+
 ---
 
 ### 📊 GitHub Stats
