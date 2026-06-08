@@ -50,25 +50,20 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?logo=metasploit&logoColor=white&style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-0077B5?logo=nmap&logoColor=white&style=for-the-badge)
 ![SQLMap](https://img.shields.io/badge/SQLMap-000000?logo=sql&logoColor=white&style=for-the-badge)
-
-![Hydra](https://img.shields.io/badge/Hydra-00BFFF?logo=terminal&logoColor=white&style=for-the-badge)
 ![httpx](https://img.shields.io/badge/httpx-FF4500?logo=projectdiscovery&logoColor=white&style=for-the-badge)
-![Nikto](https://img.shields.io/badge/Nikto-00FF00?logo=security&logoColor=black&style=for-the-badge)
-![Gobuster](https://img.shields.io/badge/Gobuster-FF00FF?logo=terminal&logoColor=white&style=for-the-badge)
-![XSStrike](https://img.shields.io/badge/XSStrike-E34F26?logo=javascript&logoColor=white&style=for-the-badge)
-![Commix](https://img.shields.io/badge/Commix-FF6600?logo=terminal&logoColor=white&style=for-the-badge)
 ![WhatWeb](https://img.shields.io/badge/WhatWeb-00A3E0?logo=web&logoColor=white&style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF00FF?logo=terminal&logoColor=white&style=for-the-badge)
 
-![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-00B2A9?logo=cobaltstrike&logoColor=white&style=for-the-badge)
-![BloodHound](https://img.shields.io/badge/BloodHound-800080?logo=graph&logoColor=white&style=for-the-badge)
 ![Nuclei](https://img.shields.io/badge/Nuclei-FF4D4D?logo=projectdiscovery&logoColor=white&style=for-the-badge)
 ![ffuf](https://img.shields.io/badge/ffuf-00FF00?logo=terminal&logoColor=black&style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-00BFFF?logo=terminal&logoColor=white&style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-00FF00?logo=security&logoColor=black&style=for-the-badge)
+![XSStrike](https://img.shields.io/badge/XSStrike-E34F26?logo=javascript&logoColor=white&style=for-the-badge)
+![Commix](https://img.shields.io/badge/Commix-FF6600?logo=terminal&logoColor=white&style=for-the-badge)
 
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?logo=owasp&logoColor=white&style=for-the-badge)
-![Ghidra](https://img.shields.io/badge/Ghidra-00A3E0?logo=ghidra&logoColor=white&style=for-the-badge)
 ![Frida](https://img.shields.io/badge/Frida-FF69B4?logo=frida&logoColor=white&style=for-the-badge)
 ![MobSF](https://img.shields.io/badge/MobSF-4285F4?logo=mobile&logoColor=white&style=for-the-badge)
-
 ![Wireshark](https://img.shields.io/badge/Wireshark-00A2E8?logo=wireshark&logoColor=white&style=for-the-badge)
 ![Hashcat](https://img.shields.io/badge/Hashcat-FF00FF?logo=hashcat&logoColor=white&style=for-the-badge)
 ![JohnTheRipper](https://img.shields.io/badge/John%20The%20Ripper-FF4500?logo=johntheripper&logoColor=white&style=for-the-badge)
@@ -85,7 +80,6 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 
 ### 🔥 Featured Projects
 
-- **[VulnLab](https://github.com/SintaSIN11/vulnlab)** — Collection of vulnerable labs for pentesting practice
 - **[BugBounty-Writeups](https://github.com/SintaSIN11/bugbounty-writeups)** — Write-ups of bugs I have successfully found
 - **[AutoReconX](https://github.com/SintaSIN11/autoreconx)** — Automated reconnaissance tool (Python + Bash)
 - **[WebExploit-Payloads](https://github.com/SintaSIN11/webexploit-payloads)** — Collection of XSS, SSTI, SSRF, and other payloads
