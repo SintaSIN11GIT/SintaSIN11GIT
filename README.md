@@ -67,14 +67,6 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 
 ---
 
-### 🏆 Certifications
-
-- OSCP (Offensive Security Certified Professional)
-- eJPT | PNPT | CEH
-- (Add other certifications you have here)
-
----
-
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SintaSIN11&show_icons=true&theme=tokyonight)
