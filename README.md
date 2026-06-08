@@ -1,11 +1,11 @@
-<div align="center">
-  <h1>👾 Hi, I'm SintaSIN11 👾</h1>
-  <h3>Ethical Hacker | Penetration Tester | Bug Bounty Hunter</h3>
+**👾 SintaSIN11 👾**  
+**Ethical Hacker | Penetration Tester | Bug Bounty Hunter**
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=SintaSIN11&color=0e75b6&style=flat-square&label=Profile+Views)
-  
-  <img src="https://img.shields.io/badge/Cybersecurity-Active-00ff00" alt="Cybersecurity Active"/>
-  <img src="https://img.shields.io/badge/Bug%20Bounty-Active-red" alt="Bug Bounty"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SintaSIN11&color=0e75b6&style=flat-square&label=Profile+Views)
+
+<img src="https://img.shields.io/badge/Cybersecurity-Active-00ff00" alt="Cybersecurity Active"/>
+<img src="https://img.shields.io/badge/Bug%20Bounty-Active-red" alt="Bug Bounty"/>
+
 </div>
 
 ---
