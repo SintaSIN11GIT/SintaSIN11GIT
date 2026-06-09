@@ -97,7 +97,3 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 > "The best way to defend is to attack first." — Hacker Version of Sun Tzu
 
 ---
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20and%20Caffeine-black" alt="Made with love"/>
-</div>
