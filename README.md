@@ -94,6 +94,4 @@ Currently focusing on **Web Application Security**, **API Security**, **Cloud Se
 - **HackerOne**: [hackerone.com/SintaSIN11](https://hackerone.com/SintaSIN11)
 - **Blog**: [yourblog.com](https://yourblog.com)
 
-> "The best way to defend is to attack first." — Hacker Version of Sun Tzu
-
 ---
